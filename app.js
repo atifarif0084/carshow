@@ -9,14 +9,14 @@
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   const firebaseConfig = {
-    apiKey: "AIzaSyAFkLpGDWUdBKhaH34Ba1nvRwLEcbr2rq0",
-    authDomain: "carshow-room.firebaseapp.com",
-    databaseURL: "https://carshow-room-default-rtdb.firebaseio.com",
-    projectId: "carshow-room",
-    storageBucket: "carshow-room.appspot.com",
-    messagingSenderId: "830523848030",
-    appId: "1:830523848030:web:6526e4a48c36011b5d4bcf",
-    measurementId: "G-ZJEZ3NZ38T"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
   // Initialize Firebase
